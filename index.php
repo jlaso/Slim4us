@@ -1,4 +1,4 @@
-<?php
+<?php include("default.php"); die();
 /**
  * Step 1: Require the Slim PHP 5 Framework
  *
@@ -161,3 +161,4 @@ $app->delete('/delete', function () {
  * the Slim application using the settings and routes defined above.
  */
 $app->run();
+?>
