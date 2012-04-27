@@ -1,0 +1,1 @@
+clone the project with git clone --recursive git@github.com:jlaso/Slim4us.git
