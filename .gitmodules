@@ -1,0 +1,3 @@
+[submodule "lib/extras"]
+	path = lib/extras
+	url = git@github.com:jlaso/Slim4us-Extras.git
